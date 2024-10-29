@@ -1,11 +1,11 @@
-## CODETECH-Task1
-## Name: Kavita Vidhate
-## Company: CODETECH IT SOLUTIONS
-## ID: CT08DS8907
-## Domain: Web Development
-## Duration: October 5th 2024 to November 5th 2024
+### CODETECH-Task1
+### Name: Kavita Vidhate
+### Company: CODETECH IT SOLUTIONS
+### ID: CT08DS8907
+### Domain: Web Development
+### Duration: October 5th 2024 to November 5th 2024
 
-# Overview of the Project: A Blogging Platform
+## Overview of the Project: A Blogging Platform
 
 ## Objective
 The objective of this blog website is to provide users with a platform to create, view, and share blog posts on various topics. It features user-friendly post creation, categorization, and easy navigation, making it ideal for sharing insights and engaging with readers.
