@@ -1,10 +1,9 @@
 # CODETECH-Task1
 Name: Kavita Vidhate
 Company: CODETECH IT SOLUTIONS
-ID:
+ID: CT08DS8907
 Domain: Web Development
-Duration: 
-Mentor:
+Duration: October 5th 2024 to November 5th 2024
 
 Overview of the project
 Project: A Blogging Platform
